@@ -77,4 +77,5 @@ Enhanced customer segmentation.
 Faster decision-making through real-time insights.
 Risk assessment using insurance KPIs.
 8.Dashboard Screenshot
-https://github.com/sairambadganchi18/Bharti-AXA-Life-Insurance/blob/main/Bharti%20AXA%20Life%20Insurance.png
+![Dashboard Preview]([Dashboard.png](https://github.com/sairambadganchi18/Bharti-AXA-Life-Insurance/blob/main/Bharti%20AXA%20Life%20Insurance.png)
+
